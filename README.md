@@ -27,10 +27,9 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ---
 
-<### Screenshots
+<### Screenshots>
 
-*(Add screenshots of your website here)*
->
+<*(Add screenshots of your website here)*>
 ---
 
 ### Tech Stack
