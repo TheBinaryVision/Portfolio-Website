@@ -26,6 +26,60 @@ a,
   transition: all 300ms ease;
 }
 
+#desktop-nav {
+  background-color: rgba(0, 0, 0, 0.1); /* Background color for the entire nav */
+  padding: 10px 20px; /* Padding around the entire nav */
+}
+
+.nav-wrapper {
+  display: flex; /* Aligns items in a row */
+  justify-content: space-between; /* Space between nav items and search */
+  align-items: center; /* Center vertically */
+  width: 100%; /* Full width */
+}
+
+.nav-links {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+}
+
+.nav-links li {
+  display: inline; /* Makes the list items inline */
+  margin-right: 20px; /* Space between the items */
+}
+
+.nav-links a {
+  text-decoration: none; /* Removes the underline from links */
+  color: #000; /* Change this to your desired text color */
+}
+
+.search-container {
+  display: flex; /* Align input and button horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.search-container input {
+  padding: 5px; /* Space inside the input */
+  margin-right: 5px; /* Space between input and button */
+  border: 1px solid #ccc; /* Border around the input */
+  border-radius: 4px; /* Rounded corners */
+}
+
+.search-container button {
+  padding: 5px 10px; /* Space inside the button */
+  border: none; /* No border */
+  background-color: #007bff; /* Button background color */
+  color: white; /* Button text color */
+  border-radius: 4px; /* Rounded corners */
+  cursor: pointer; /* Pointer on hover */
+}
+
+.search-container button:hover {
+  background-color: #0056b3; /* Darker color on hover */
+}
+
+
 /* DESKTOP NAV */
 
 nav,
