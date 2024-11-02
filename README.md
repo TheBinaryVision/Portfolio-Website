@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
+<- [Screenshots](#screenshots)>
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -27,10 +27,10 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ---
 
-### Screenshots
+<### Screenshots
 
 *(Add screenshots of your website here)*
-
+>
 ---
 
 ### Tech Stack
