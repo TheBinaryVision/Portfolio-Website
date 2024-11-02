@@ -104,5 +104,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or would like to collaborate, feel free to reach out:
 
 - **Email**: yourname@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/naamroshan)
-- **GitHub**: [Your GitHub](https://github.com/TheBInaryVision)
+- **LinkedIn**: [Roshan Vishwakarma](https://linkedin.com/in/naamroshan)
+- **GitHub**: [TheBinaryVision](https://github.com/TheBInaryVision)
