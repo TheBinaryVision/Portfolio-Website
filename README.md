@@ -103,6 +103,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or would like to collaborate, feel free to reach out:
 
-- **Email**: yourname@example.com
+- **Email**: roshanvishwakarma1166@gmail.com
 - **LinkedIn**: [Roshan Vishwakarma](https://www.linkedin.com/in/naam-roshan/)
 - **GitHub**: [TheBinaryVision](https://github.com/TheBinaryVision)
